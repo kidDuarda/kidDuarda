@@ -2,7 +2,7 @@
 
 
 **Personal Infos:**
-;
+
 - 🔧 I am always looking to learn new technologies;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: duarda@perfectdreams.com;
